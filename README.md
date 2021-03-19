@@ -1,2 +1,1 @@
-# Practising
-I want conflict!!!
+# PractisingGitHub
